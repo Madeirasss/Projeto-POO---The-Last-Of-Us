@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Zombie_basic
+comment1.params=
+comment1.target=Zombie_basic()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkHit()
+comment4.params=
+comment4.target=void\ animateZombie()
+comment5.params=
+comment5.target=void\ moveZombie()
+comment6.params=
+comment6.target=boolean\ atWall()
+comment7.params=
+comment7.target=boolean\ atWorldEdge()
+comment8.params=
+comment8.target=boolean\ atPlatformEdge()
+comment9.params=
+comment9.target=void\ flipDirection()
+numComments=10
