@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=ShockWaveL
-comment1.params=speed
-comment1.target=ShockWaveL(int)
-comment2.params=imageArray
-comment2.target=void\ flipImages(greenfoot.GreenfootImage[])
-numComments=3

@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=ResumeButton
-comment1.params=previousWorld
-comment1.target=ResumeButton(greenfoot.World)
-comment2.params=
-comment2.target=void\ onClick()
-numComments=3

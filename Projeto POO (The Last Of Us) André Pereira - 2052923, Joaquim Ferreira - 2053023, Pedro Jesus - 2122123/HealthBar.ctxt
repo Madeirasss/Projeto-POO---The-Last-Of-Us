@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=HealthBar
-comment1.params=
-comment1.target=HealthBar()
-comment2.params=health
-comment2.target=void\ updateHealth(int)
-comment2.text=\r\n\ Atualiza\ a\ barra\ de\ vida\ de\ acordo\ com\ o\ valor\ atual\ da\ vida\r\n
-numComments=3

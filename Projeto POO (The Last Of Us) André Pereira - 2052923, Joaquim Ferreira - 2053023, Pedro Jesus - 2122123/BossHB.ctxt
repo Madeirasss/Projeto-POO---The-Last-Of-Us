@@ -1,8 +1,0 @@
-#BlueJ class context
-comment0.target=BossHB
-comment1.params=maxHealth
-comment1.target=BossHB(int)
-comment2.params=currentHealth
-comment2.target=void\ updateHB(int)
-comment2.text=\r\n\ Update\ the\ health\ bar\ based\ on\ the\ current\ health\ of\ the\ boss.\r\n
-numComments=3
