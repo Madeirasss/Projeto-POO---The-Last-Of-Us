@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=CreditScreen
+comment1.params=totalScore
+comment1.target=CreditScreen(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=void\ showCredits()
+comment5.params=
+comment5.target=void\ showPressEnterMessage()
+numComments=6

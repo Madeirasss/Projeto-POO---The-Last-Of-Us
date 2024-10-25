@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ButtonPlayer
+comment1.params=platform
+comment1.target=ButtonPlayer(MovingPlatform)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ isPressed()
+comment4.params=platform
+comment4.target=boolean\ isControllingPlatform(MovingPlatform)
+numComments=5

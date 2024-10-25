@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ConfirmExitMenu
+comment1.params=previousWorld
+comment1.target=ConfirmExitMenu(greenfoot.World)
+numComments=2
