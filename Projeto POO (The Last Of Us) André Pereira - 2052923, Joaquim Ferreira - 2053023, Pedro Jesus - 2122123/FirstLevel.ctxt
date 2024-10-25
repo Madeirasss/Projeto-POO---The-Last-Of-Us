@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FirstLevel
+comment1.params=player1Health\ player2Health\ initialScore
+comment1.target=FirstLevel(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ addPlatforms()
+comment3.params=
+comment3.target=void\ addZombies()
+comment4.params=
+comment4.target=void\ addMedicKit()
+comment5.params=
+comment5.target=void\ act()
+comment6.params=
+comment6.target=void\ checkForZombies()
+comment7.params=
+comment7.target=boolean\ isDoorActive()
+comment8.params=
+comment8.target=ScoreCounter\ getScoreCounter()
+numComments=9

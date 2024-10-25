@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GrenadeCounter
+comment1.params=initialGrenades
+comment1.target=GrenadeCounter(int)
+comment2.params=
+comment2.target=void\ updateCounter()
+comment3.params=
+comment3.target=void\ addGrenade()
+comment4.params=
+comment4.target=void\ useGrenade()
+comment5.params=
+comment5.target=int\ getGrenades()
+numComments=6
