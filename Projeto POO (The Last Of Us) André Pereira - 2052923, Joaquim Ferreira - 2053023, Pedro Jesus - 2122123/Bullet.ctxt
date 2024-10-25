@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Bullet
+comment1.params=bulletSpeed
+comment1.target=Bullet(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ checkWorldEdge()
+comment4.params=
+comment4.target=void\ checkWallCollision()
+numComments=5
